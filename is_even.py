@@ -1,6 +1,6 @@
 #Create a variable "number" and assign it a integer value.
-x=12
-if x%2:
+number=12
+if number%2:
     print(1)
 else:
     print(0)
